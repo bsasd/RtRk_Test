@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VoD</string>
+    <string name="loading">Loading...</string>
+    <string name="splash_screen_image">Splash Screen Image</string>
+    <string name="list_row_image">List Row Image</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="once">Once</string>
+    <string name="continue_txt">Continue</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="movie_details">MOVIE DETAILS</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_duration">Duration</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_description">Description</string>
+    <string name="movie_writers">Writers</string>
+    <string name="movie_stars">Stars</string>
+    <string name="imdb">IMDB</string>
+    <string name="play_movie">Play movie</string>
+</resources>
